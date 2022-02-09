@@ -1,4 +1,4 @@
-# Hi Language Implementor
+# Hi Language Interpreter
 
 In this homework we will gradually develop a small programming language called Hi.
 
